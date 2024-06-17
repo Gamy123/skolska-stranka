@@ -1,0 +1,13 @@
+{ "Kontakt":{
+    "Adresa":" Ostrovského 2333/1, 040 01 Košice",
+  "Tel":"055/643 19 78",
+  "Email":"skola@ostrovskeho.sk"
+},
+"Linky":{
+  "Skola": "https://www.ostrovskeho.sk",
+  "W3schools": "https://www.w3schools.com",
+  "GfG": "https://www.geeksforgeeks.org"
+},
+  "Onas":{
+  "text":"Škola Ostrovskeho 1 sa zameriava na všestranný rozvoj študentov a ponúka širokú škálu študijných odborov." 
+}}
